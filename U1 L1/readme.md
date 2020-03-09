@@ -1,6 +1,6 @@
-#Unit One - User Interface I
+# Unit One - User Interface I
 
-##This Unit is broken up into 2 files:
+## This Unit is broken up into 2 files:
 
 * **semantic_markup.html** - This is for project 1
 * **sweet_eats.html** - This is for project 2
